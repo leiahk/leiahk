@@ -15,6 +15,3 @@ animation, 3D, illustration... and now I'm also entering the world of Web3, NFTs
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leiahk&repo=leiahk.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'] 
